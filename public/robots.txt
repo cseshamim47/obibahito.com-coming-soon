@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# Coming Soon Page - Under Construction
+# Visit again soon for obibahito.com launch!
